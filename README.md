@@ -102,11 +102,10 @@ Exemplos:
 Preencher com os nomes da equipe:
 - Integrante 1
 - Integrante 2
-- Integrante 3
-- Integrante 4
+
 
 ## Link do repositório
-Adicionar aqui após publicação no GitHub.
+https://github.com/Guirenzo/ia-desenvolvimento-estruturas-dados
 
 ## Observação final
 O projeto foi organizado para facilitar:
