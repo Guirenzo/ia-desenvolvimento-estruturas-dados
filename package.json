@@ -1,0 +1,17 @@
+{
+  "name": "ia-desenvolvimento-estruturas-dados",
+  "version": "1.0.0",
+  "description": "Projeto acadêmico de estruturas de dados com apoio de IA",
+  "main": "index.js",
+  "scripts": {
+    "test": "node arrays/two-sum/test.js && node arrays/best-time-to-buy-and-sell-stock/test.js && node arrays/product-of-array-except-self/test.js && node arrays/3sum/test.js && node arrays/find-minimum-in-rotated-sorted-array/test.js && node linked-lists/reverse-linked-list/test.js && node linked-lists/linked-list-cycle/test.js && node linked-lists/add-two-numbers/test.js && node linked-lists/reorder-list/test.js && node stacks/valid-parentheses/test.js && node stacks/min-stack/test.js && node stacks/daily-temperatures/test.js"
+  },
+  "keywords": [
+    "estruturas-de-dados",
+    "ia",
+    "javascript",
+    "leetcode"
+  ],
+  "author": "Equipe",
+  "license": "MIT"
+}
